@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Springboot
 - 📫 How to reach me: ...bwangocho@gmail.com
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...i love coding
 -->
